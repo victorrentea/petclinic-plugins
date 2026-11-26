@@ -1,0 +1,14 @@
+{
+  "name": "petclinic-plugins",
+  "owner": { "name": "Victor Rentea", "url": "https://victorrentea.ro" },
+  "metadata": {
+    "description": "Agent plugins shared by every petclinic service, for Claude Code and GitHub Copilot CLI"
+  },
+  "plugins": [
+    {
+      "name": "grill-me",
+      "description": "Interviews you relentlessly about a plan, one question at a time, until you share an understanding.",
+      "source": "./plugins/grill-me"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "grill-me",
+  "description": "Interviews you relentlessly about a plan, one question at a time, until you share an understanding.",
+  "author": { "name": "Victor Rentea", "url": "https://victorrentea.ro" },
+  "license": "MIT",
+  "keywords": ["planning", "design", "interview"],
+  "skills": "./skills/"
+}
